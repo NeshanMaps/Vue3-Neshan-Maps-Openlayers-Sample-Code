@@ -1,7 +1,7 @@
 {
-  "name": "example",
+  "name": "vue3-neshanmap-openlayers-usage-code",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@neshan-maps-platform/vue3-openlayers": "^1.0.3",
+    "@neshan-maps-platform/vue3-openlayers": "^1.0.4",
     "vue": "^3.2.45"
   },
   "devDependencies": {

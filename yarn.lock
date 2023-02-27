@@ -117,10 +117,10 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.16.17.tgz#c5a1a4bfe1b57f0c3e61b29883525c6da3e5c091"
   integrity sha512-y+EHuSchhL7FjHgvQL/0fnnFmO4T1bhvWANX6gcnqTjtnKWbTvUMCpGnv2+t+31d7RzyEAYAd4u2fnIhHL6N/Q==
 
-"@neshan-maps-platform/vue3-openlayers@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@neshan-maps-platform/vue3-openlayers/-/vue3-openlayers-1.0.3.tgz#6d932c80f5e2476f430fc18f7c6cb0d8301622cf"
-  integrity sha512-WVh2ED7h5t8TKfrYeZDi5y8v6Vq3AC5JEW3C7H0JNu6sQPInMQfcNrdkxkgZ9mrR5RGPAIwBpa5CEdQ7lz8BzQ==
+"@neshan-maps-platform/vue3-openlayers@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@neshan-maps-platform/vue3-openlayers/-/vue3-openlayers-1.0.4.tgz#ee7c04af3469dd0dc5f477ac3df294fea3a884c2"
+  integrity sha512-/tW+9RC7talAwUnyAoq8cA7/EN44nitenmkg9P3L79pgG5LPz+5xTaGKCAnrU3ewOBLJwxBMs/tLA9/RZlXGHA==
 
 "@vitejs/plugin-vue@^4.0.0":
   version "4.0.0"

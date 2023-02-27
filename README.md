@@ -1,6 +1,42 @@
-# Vue 3 + TypeScript + Vite
+# Vue3 Neshanmap Openlayers Usage Code
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+این پروژه به این دلیل ساخته شده تا به شما نحوه استفاده‌ی پایه‌ای از نقشه 
+[vue3-openlayers نشان](https://www.npmjs.com/package/@neshan-maps-platform/vue3-openlayers)
+نمایش بدهد.
+
+## پیش از راه اندازی
+برای استفاده از نقشه، شما نیاز به 
+[کلید های دسترسی](https://platform.neshan.org/panel/api-key) 
+دارید.
+همچنین برای استفاده از سرویس های سرچ و ریورس نقشه به کلید service
+نیاز دارید.
+
+پس از گرفتن آن‌ها از [وبسایت](https://platform.neshan.org/panel/api-key)
+،
+کلید نقشه و در صورت نیاز،
+کلید service
+را در فایل src/App.vue
+به جای YOUR_MAP_KEY
+و
+YOUR_SERVICE_KEY
+قرار دهید.
+## 📦 راه اندازی
+ابتدا پکیج‌های مورد استفاده پروژه را نصب کنید:
+```bash
+npm install
+```
+یا
+```bash
+yarn
+```
+سپس پروژه را در حالت توسعه، شروع کنید:
+```bash
+npm run dev
+```
+یا
+```bash
+yarn dev
+```
 
 ## Recommended IDE Setup
 
