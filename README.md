@@ -4,7 +4,7 @@
 [vue3-openlayers نشان](https://www.npmjs.com/package/@neshan-maps-platform/vue3-openlayers)
 نمایش بدهد.
 
-## پیش از راه اندازی
+## ⚙️پیش از راه اندازی
 برای استفاده از نقشه، شما نیاز به 
 [کلید های دسترسی](https://platform.neshan.org/panel/api-key) 
 دارید.
