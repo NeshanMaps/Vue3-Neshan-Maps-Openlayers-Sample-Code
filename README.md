@@ -4,6 +4,8 @@
 [vue3-openlayers نشان](https://www.npmjs.com/package/@neshan-maps-platform/vue3-openlayers)
 نمایش بدهد.
 
+توجه: جهت مطالعه مستندات کامل مربوط به [استفاده از سرویسهای نقشه نشان در Vue.js اینجا کلیک کنید.](https://platform.neshan.org/sdk/%DA%A9%D8%A7%D9%85%D9%BE%D9%88%D9%86%D9%86%D8%AA-vuejs-3-openlayers/)
+
 ## ⚙️پیش از راه اندازی
 برای استفاده از نقشه، شما نیاز به 
 [کلید های دسترسی](https://platform.neshan.org/panel/api-key) 
